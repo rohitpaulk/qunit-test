@@ -20,6 +20,7 @@
   "devDependencies": {
     "@ember/jquery": "^0.6.0",
     "@ember/optional-features": "^0.7.0",
+    "@ember/test-helpers": "^2.0.0-beta.6",
     "broccoli-asset-rev": "^3.0.0",
     "ember-ajax": "^5.0.0",
     "ember-cli": "~3.12.1",
@@ -44,6 +45,7 @@
     "eslint-plugin-ember": "^6.2.0",
     "eslint-plugin-node": "^9.0.1",
     "loader.js": "^4.7.0",
+    "qunit": "^2.11.0",
     "qunit-dom": "^0.8.4"
   },
   "engines": {
